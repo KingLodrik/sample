@@ -1,4 +1,9 @@
 # sample
 This is sample repository
 
-trying to learn
+Demo purpose
+
+Learning
+
+
+ 
